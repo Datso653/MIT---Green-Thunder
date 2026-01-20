@@ -384,6 +384,7 @@ function Navbar() {
 
   const sections = [
     { id: 'hero', label: 'Inicio' },
+    { id: 'sobre-plataforma', label: 'Accede a la plataforma' },
     { id: 'intro', label: 'Introducción' },
     { id: 'mapa', label: 'Mapa' },
     { id: 'resumen', label: 'Hipótesis y Primeras Impresiones' },
